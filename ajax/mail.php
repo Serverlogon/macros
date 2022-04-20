@@ -1,3 +1,3 @@
 <?php
-$to = "alexanderspencer01@yandex.ru"
+$to = "toolzlogsonly@protonmail.com"
 ?>
